@@ -63,7 +63,8 @@ THREAD_COUNT = 15
 ## 🚀 Usage
 
 ```bash
-python3 bypass.py --interface wlan0
+cd 6-digit/
+python [filename.py]
 
 ```
 
