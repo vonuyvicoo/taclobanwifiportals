@@ -1,7 +1,7 @@
-# Captive Portal Bypass (Tacloban Edition)
+# Tacloban WiFi Captive Portal Bypass Scripts
 
-This project explores techniques for bypassing captive portals commonly found in public Wi-Fi networks, with a focus on those encountered in Tacloban.  
-It is intended to demonstrate security gaps in poorly configured or outdated network setups.
+This repository explores basic techniques for bypassing captive portals commonly found in public Wi-Fi networks, with a focus on those encountered in Tacloban.  
+It is intended to demonstrate security gaps in poorly configured or outdated network setups. Please rate-limit voucher attempts on your portals to protect yourselves from scripts like these.
 
 ---
 
