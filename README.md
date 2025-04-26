@@ -109,8 +109,8 @@ Alternatively, you can inject the script via the URL bar:
 
 Captive portals often use numeric PINs or codes of length _n_. A brute‑force approach must try up to \(10^n\) combinations. As _n_ increases, the total attempts grow exponentially:
 
-- 4-digit PIN: \(10^4 = 10{,}000\) possibilities
-- 6-digit PIN: \(10^6 = 1{,}000{,}000\) possibilities
+- 4-digit PIN: \(10^4 = 10,000\) possibilities
+- 6-digit PIN: \(10^6 = 1,000,000\) possibilities
 
 Serially trying each code would take too long. By using multiple threads (e.g., `THREAD_COUNT = 15`), we distribute the workload across concurrent browser instances, roughly reducing the total wall‑clock time by a factor close to the number of threads (barring network and CPU limits).
 
