@@ -9,8 +9,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # Configuration
-CHROMEDRIVER_PATH = '/Users/vonuyvico/Downloads/chromedriver-mac-arm64/chromedriver'
-TARGET_URL = 'http://captive.apple.com'
+CHROMEDRIVER_PATH = 'YOUR_CHROMEDRIVER_PATH'
+TARGET_URL = 'http://captive.apple.com' # or gstatic.com/generate_204 for windows
 THREAD_COUNT = 15
 
 

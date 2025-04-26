@@ -11,12 +11,12 @@ from selenium.webdriver.support import expected_conditions as EC
 options = webdriver.ChromeOptions()
 options.add_argument('--headless=new')
 # Specify the path to your local ChromeDriver executable
-chromedriver_path = '/Users/vonuyvico/Downloads/chromedriver-mac-arm64/chromedriver'  # Update this path accordingly
+chromedriver_path = 'YOUR_CHROMEDRIVE_PATH'  # Update this path accordingly
 service = Service(executable_path=chromedriver_path)
 driver = webdriver.Chrome(service=service, options=options)
 
 # Open your target website
-driver.get("http://captive.apple.com")
+driver.get("http://captive.apple.com") # or gstatic.com/generate_204
 
 def generate_num():
     """Generate a six-digit random number as a string."""
