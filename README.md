@@ -25,6 +25,7 @@ Use responsibly and ethically. ⚠️
 - Lightweight and scriptable
 - Selenium-based browser automation (Python)
 - JavaScript-based portal poking
+- The repo currently supports portals made by the following: Osada (Deskanso, Bo's Avenida), Skye, G-Cafe (21st Burgos)
 
 ---
 
