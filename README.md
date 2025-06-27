@@ -14,8 +14,6 @@ It is designed to help users understand how captive portals work and explore net
 The author does **not** condone or support any misuse of this tool, and assumes **no responsibility** for any actions taken using the contents of this repository.
 
 > Wi-Fi solutions providers should take note of this security vulnerability.  
-> If you need someone to implement proper security measures, contact us at [sanghaya.org](https://sanghaya.org).
-
 Use responsibly and ethically. ⚠️
 
 ---
